@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "face-detection-267110",
+  "private_key_id": "ddca811a344c906f12730f90d01414e2adc9a22f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCqxqdx0BRhCM04\nzfmpGmjeoVfODBfvoKpHuoFSL6eK+GZHpX2BufwHY235k2ZIad+0mrcVRoo78avH\nqWdDjWwyzbYwCONPiQ4lIPdJaZekjNJdme447M14NEOWLk43LKEj395sW18O1nuZ\n+wOzR9AQzhnQVp3KYUE9TMB0N9hQfdyWfpMVG65pWgxuFt5cfnNjbzzBE0xM+7Ob\njaI7wltTGbpPKubZY9wUNVZU1sYGhulrL3r3kQT7LFb866vT4lZkCNnOATtb6CLu\nzR84bBkkTyW+EKB1jR8TNUy9tA5DPwkqBD7MR5dYnW2B1t5fdBbdWeNCtB/a2uCt\nBACW4MenAgMBAAECggEAJxeWWO1C3PuAztIHpngPLXdNfDM0f3wNvqGo3MFf3uYB\ns8DkO//w+1f9YrYlIcpqlRMdeddN6W7m3aufoc0LyY1heRlvv1MmU8V6Fen/9oDt\n3tNPvuQmHLAKEKTE7shekrG6Xp+D4Qej/5mAPVfg/xfOvOw27o7YukmJfJEUCUiG\npWxNTV1ObR/fvterJRbUBj9s6c89rCHMzS2LP03x/8fPu+6ijZnlGqwX6HAxB1M6\nvThD6Cw0srbJzzGTHgj4i0C8EL4pyy1+apwXNdnrV+ZNK/mo/qEOdj/4oup9MopO\n2tDRR/QXYdElPY9BPSMOi6/WlMV9n/M405yy6qY00QKBgQDWx+ZSyP1943sedUKN\nNzrXy/vHF/inBZQ+Xtytv7jFXK7prQH3MiMRbDdkETzxexX5NZRSEyYemhvIPOYI\njDTiWawt7xiZvakSj24lb++29vM834DO+rm+RQv+aTIna+CWCyi92Zx6pX9ziVZ0\nWPZdIswR+mjJEUwJQkWBL6Qx9QKBgQDLjM/4mTRXusPrOr32fJDj9dxRStZ3FEnI\nu8fqm1jpuCKszXaJZkOlevSnRiirFiLZvrfpPA7xLqpMgaUmgwan8lBCl6TXp78N\nxui4+TyTkIsXapP3JyzYXsqvlP3bA+Gd7tgFWrze02TYCN/+yTmTY7COWG+cdCc/\nUytTSS8lqwKBgB5zwUhDjw1mT3KGFaWICyPFnDEiSPMFa3tcX9WStVPmTDZ9fSXb\nSfWSblgVyZpDZV4sJpdsd58nIoFFgSf9GRJuvGbW25oQtgQXqfpM4KQEZ4BeABlY\nmzVK/ORZbe8A8JrVgjVIwVLyXBu5gTSF2IhkAqMZ6fl4Jlu5tbkXVCRxAoGALUCu\n88vLsT1aVS+IEAZ9h9CfHIuQxoSCKthkh6nlyIAhZV2AXueXXnDJd27Hl9GiCdq2\ntGmfwMrpHX0tJDS5BBmA8m0YPsGSXhO8pXLznrLh2WDeaHITLD9WvFZZYZmpTR1O\ndVJI7xj8MHM4qUI/RJ9DH0JV/ehs2U06MpfwnWUCgYEAuc+nIvDJqyOZU2RCPgfE\nynssYxSg3M7oEwdfTn+SHP9PWJu7WBajWggSvln0qxOZUWnlmpvNz8tHYInQj2Z5\nuMIAEpqnwWDPFsqh1eMGzRndxs49F0KfL0zjTHiuieDTkEmu6Jq46xHzSJ0CsknS\nb2CdIQ1Qzl9jyWvZS6K9hP8=\n-----END PRIVATE KEY-----\n",
+  "client_email": "siku-928@face-detection-267110.iam.gserviceaccount.com",
+  "client_id": "115245668444431710810",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/siku-928%40face-detection-267110.iam.gserviceaccount.com"
+}
