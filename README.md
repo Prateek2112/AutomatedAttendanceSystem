@@ -10,3 +10,6 @@ The file in the directory are:
     * Detects and fetches face images from a 'Local Video File' or a 'Live Video Stream' using MTCNN Detector.
     * Passes these faces through a trained model for prediction.
     * Creates a list of all students detected and recognized from the video feed.
+* Face_Extractor.ipynb : This notebook file (Google Colab) was used to extract multiple faces of each person that would later be used for training. face_extractor.py is just the python version of this notebook.
+* helper.py & mtcnn_detector.py : These files were taken from a GitHub repository(reference links below). These python files are a part of the face detection algorithm, that draw bounding boxes and crop out the faces.
+* training.ipynb : This notebook file (Google Colab) was used to train the faces of all students of the class by using customized VGG19 model.
