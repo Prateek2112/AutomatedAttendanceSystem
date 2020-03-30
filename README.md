@@ -16,3 +16,15 @@ The file in the directory are:
 * The **model** folder contains all the dependancies (params, json, caffemodel and prototxt) that are used my MTCNN detector.
 
 ## Getting Started
+### Prerequisites
+
+The local machine needs to be installed with Python 3.7 with all OpenCv, Tensorflow and Numpy Libraries.
+Training the images requires a lot of memory and GPU, which is easily available with Google Collaboratory (Linux Based).
+The MTCNN module implements bounding boxes and helps in extracting information of all the faces detected in an image.
+
+## Built With
+* [OpenCV](http://docs.opencv.org/4.2.0/) - Implementation of Algorithms
+* [Tkinter](https://docs.python.org/2/library/tkinter.html) - GUI Implementation
+* [Numpy](http://www.numpy.org/) - Used to manage computations.
+* [Tensorflow](https://www.tensorflow.org/install/pip) - Used to train and build models.
+* [Gspread](https://gspread.readthedocs.io/en/latest/) - Used to integrate Google Sheets with Python API.
