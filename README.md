@@ -15,7 +15,7 @@ The file in the directory are:
 * **training.ipynb** : This notebook file (Google Colab) was used to train the faces of all students of the class by using customized VGG19 model. ***training.py*** is just the python version of this notebook.
 * **gui.py** : This python file contains the user interface code that is used to initiate the entire process.
 * The **model** folder contains all the dependancies (params, json, caffemodel and prototxt) that are used my MTCNN detector.
-* [Input Video and Trained Model] https://drive.google.com/open?id=1seX9yM4ehsVJFg7SmX3AAnxdPXeFoeVs
+* [Input Video and Trained Model](https://drive.google.com/open?id=1seX9yM4ehsVJFg7SmX3AAnxdPXeFoeVs)
 
 ## Getting Started
 ### Prerequisites
@@ -43,9 +43,9 @@ The whole prototype is made up of several codes which are interlinked to each ot
 
 ## Acknowledgements
 The following blogs were helpful for this project:
-* https://github.com/YYuanAnyVision/mxnet_mtcnn_face_detection
-* [Python-Google Sheets Integration] (https://www.youtube.com/watch?v=cnPlKLEGR7E&t=524s)
-* [Understanding CNN Architecture] https://www.kaggle.com/uysimty/keras-cnn-dog-or-cat-classification
+* [Face Detection](https://github.com/YYuanAnyVision/mxnet_mtcnn_face_detection)
+* [Python-Google Sheets Integration](https://www.youtube.com/watch?v=cnPlKLEGR7E&t=524s)
+* [Understanding CNN Architecture](https://www.kaggle.com/uysimty/keras-cnn-dog-or-cat-classification)
 
 Refer to the following papers for deeper understanding:
 * Mostafa Mehdipour Ghazi and Hazim Kemal Ekenel, "A Comprehensive Analysis of Deep Learning Based Representation for Face Recognition", The IEEE Conference on Computer Vision and Pattern Recognition (CVPR) Workshops, IEEE, 2016.
