@@ -15,7 +15,8 @@ The file in the directory are:
 * **training.ipynb** : This notebook file (Google Colab) was used to train the faces of all students of the class by using customized VGG19 model. ***training.py*** is just the python version of this notebook.
 * **gui.py** : This python file contains the user interface code that is used to initiate the entire process.
 * The **model** folder contains all the dependancies (params, json, caffemodel and prototxt) that are used my MTCNN detector.
-* [Input Video, Trained Model and FaceDetection.json](https://drive.google.com/open?id=1seX9yM4ehsVJFg7SmX3AAnxdPXeFoeVs)
+* [Input Video and Trained Model](https://drive.google.com/open?id=1seX9yM4ehsVJFg7SmX3AAnxdPXeFoeVs)
+* [Face Detection.json](https://drive.google.com/open?id=1Er_CyWJGUkql3tnN3yLguaH8nKoqv_KW)
 * **Face Detection.json** : This is an important .json file to authorise and intiate a link between Python and a specific Google Sheet. A YouTube link can be found in the acknowledgements that can guide you in generating your own .json file.
 
 ## Getting Started
