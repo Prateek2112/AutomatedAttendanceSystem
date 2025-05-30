@@ -12,7 +12,7 @@ The file in the directory are:
     * Creates a list of all students detected and recognized from the video feed.
 * **Face_Extractor.ipynb** : This notebook file (Google Colab) was used to extract multiple faces of each person that would later be used for training. ***face_extractor.py*** is just the python version of this notebook.
 * **image_resize.py** : This code uses OpenCV Bicubic Interpolation to resize different images of different pixel values to 32x32. This is done to make the images more clear and easy to train.
-* **helper.py & mtcnn_detector.py** : These files were taken from a GitHub repository(reference links below). These python files are a part of the face detection algorithm, that draw bounding boxes and crop out the faces.
+* **helper.py & mtcnn_detector.py** : These python files are a part of the face detection algorithm, that draw bounding boxes and crop out the faces.
 * **training.ipynb** : This notebook file (Google Colab) was used to train the faces of all students of the class by using customized VGG19 model. ***training.py*** is just the python version of this notebook.
 * **gui.py** : This python file contains the user interface code that is used to initiate the entire process.
 * The **model** folder contains all the dependancies (params, json, caffemodel and prototxt) that are used my MTCNN detector.
